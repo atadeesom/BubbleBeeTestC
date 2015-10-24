@@ -1,0 +1,9 @@
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorTests-NUnit\bin\Release\AdvanceCalculatorTests-NUnit.dll
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorTests-NUnit\bin\Release\AdvanceCalculatorTests-NUnit.pdb
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorTests-NUnit\bin\Release\AdvanceCalculator.dll
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorTests-NUnit\bin\Release\nunit.framework.dll
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorTests-NUnit\bin\Release\AdvanceCalculator.pdb
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorTests-NUnit\bin\Release\nunit.framework.xml
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorTests-NUnit\obj\Release\AdvanceCalculatorTests-NUnit.csprojResolveAssemblyReference.cache
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorTests-NUnit\obj\Release\AdvanceCalculatorTests-NUnit.dll
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorTests-NUnit\obj\Release\AdvanceCalculatorTests-NUnit.pdb

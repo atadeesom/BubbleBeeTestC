@@ -2,3 +2,8 @@ C:\SourceCode\DemoCalculator\AdvanceCalculator\bin\Release\AdvanceCalculator.dll
 C:\SourceCode\DemoCalculator\AdvanceCalculator\bin\Release\AdvanceCalculator.pdb
 C:\SourceCode\DemoCalculator\AdvanceCalculator\obj\Release\AdvanceCalculator.dll
 C:\SourceCode\DemoCalculator\AdvanceCalculator\obj\Release\AdvanceCalculator.pdb
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculator\bin\Release\AdvanceCalculator.dll
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculator\bin\Release\AdvanceCalculator.pdb
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculator\obj\Release\AdvanceCalculator.csprojResolveAssemblyReference.cache
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculator\obj\Release\AdvanceCalculator.dll
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculator\obj\Release\AdvanceCalculator.pdb

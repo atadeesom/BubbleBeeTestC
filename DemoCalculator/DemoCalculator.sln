@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceCalculator", "Advanc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceCalculatorUnitTest", "AdvanceCalculatorUnitTest\AdvanceCalculatorUnitTest.csproj", "{EF4EB1F6-25FD-4810-AC37-627E2EF54C11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceCalculatorTests-NUnit", "AdvanceCalculatorTests-NUnit\AdvanceCalculatorTests-NUnit.csproj", "{7241D6EA-91BD-4AF2-B18B-8E5B715E3634}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{EF4EB1F6-25FD-4810-AC37-627E2EF54C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF4EB1F6-25FD-4810-AC37-627E2EF54C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF4EB1F6-25FD-4810-AC37-627E2EF54C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7241D6EA-91BD-4AF2-B18B-8E5B715E3634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7241D6EA-91BD-4AF2-B18B-8E5B715E3634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7241D6EA-91BD-4AF2-B18B-8E5B715E3634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7241D6EA-91BD-4AF2-B18B-8E5B715E3634}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
