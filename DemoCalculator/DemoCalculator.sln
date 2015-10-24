@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorUnitTest", "Calcu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceCalculator", "AdvanceCalculator\AdvanceCalculator.csproj", "{55FA705D-3D76-4869-A94F-FB1176FD6404}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceCalculatorUnitTest", "AdvanceCalculatorUnitTest\AdvanceCalculatorUnitTest.csproj", "{EF4EB1F6-25FD-4810-AC37-627E2EF54C11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,11 +31,16 @@ Global
 		{55FA705D-3D76-4869-A94F-FB1176FD6404}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55FA705D-3D76-4869-A94F-FB1176FD6404}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55FA705D-3D76-4869-A94F-FB1176FD6404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4EB1F6-25FD-4810-AC37-627E2EF54C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4EB1F6-25FD-4810-AC37-627E2EF54C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4EB1F6-25FD-4810-AC37-627E2EF54C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4EB1F6-25FD-4810-AC37-627E2EF54C11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C3DE8E7D-3422-4D1A-82FD-336BD15A8D0E} = {5A5EDC3B-D26C-401D-8DCE-54C9BE9D0F54}
+		{EF4EB1F6-25FD-4810-AC37-627E2EF54C11} = {5A5EDC3B-D26C-401D-8DCE-54C9BE9D0F54}
 	EndGlobalSection
 EndGlobal

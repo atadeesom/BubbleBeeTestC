@@ -28,5 +28,22 @@ namespace AdvanceCalculator
             return a / b;
         }
 
+        public Double operatorSquare(int a, int b)
+        {
+            if (b == 0)
+            {
+                return 1;
+            }else if (b == 1)
+            {
+                return a;
+            }
+
+            int result = 0;
+            for (int i = 1; i < b; i++)
+            {
+                result += a * a;
+            }
+            return result;
+        }
     }
 }
