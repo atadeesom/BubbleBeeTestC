@@ -33,15 +33,12 @@ namespace AdvanceCalculator
             if (b == 0)
             {
                 return 1;
-            }else if (b == 1)
-            {
-                return a;
             }
 
-            int result = 0;
-            for (int i = 1; i < b; i++)
+            int result = 1;
+            for (int i = 0; i < b; i++)
             {
-                result += a * a;
+                result = result * a;
             }
             return result;
         }
