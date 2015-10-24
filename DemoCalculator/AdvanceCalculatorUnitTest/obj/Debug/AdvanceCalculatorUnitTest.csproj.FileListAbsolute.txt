@@ -1,12 +1,3 @@
-D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculatorUnitTest.dll
-D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculatorUnitTest.pdb
-D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculator.dll
-D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculator.pdb
-D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.csprojResolveAssemblyReference.cache
-D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.dll
-D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.pdb
 C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculatorUnitTest.dll
 C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculatorUnitTest.pdb
 C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculator.dll
@@ -16,3 +7,12 @@ C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\Microsoft.Visua
 C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.csprojResolveAssemblyReference.cache
 C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.dll
 C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.pdb
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculatorUnitTest.dll
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculatorUnitTest.pdb
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculator.dll
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculator.pdb
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.csprojResolveAssemblyReference.cache
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.dll
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.pdb
