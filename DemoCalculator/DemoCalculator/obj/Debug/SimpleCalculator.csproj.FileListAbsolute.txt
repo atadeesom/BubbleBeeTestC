@@ -1,0 +1,5 @@
+D:\SourceCode\BubbleB\DemoCalculator\DemoCalculator\bin\Debug\DemoCalculator.dll
+D:\SourceCode\BubbleB\DemoCalculator\DemoCalculator\bin\Debug\DemoCalculator.pdb
+D:\SourceCode\BubbleB\DemoCalculator\DemoCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\SourceCode\BubbleB\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.dll
+D:\SourceCode\BubbleB\DemoCalculator\DemoCalculator\obj\Debug\DemoCalculator.pdb

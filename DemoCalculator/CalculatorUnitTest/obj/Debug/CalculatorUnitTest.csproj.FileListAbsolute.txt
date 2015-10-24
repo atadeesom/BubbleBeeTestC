@@ -1,0 +1,9 @@
+D:\SourceCode\BubbleB\DemoCalculator\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.dll
+D:\SourceCode\BubbleB\DemoCalculator\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.pdb
+D:\SourceCode\BubbleB\DemoCalculator\CalculatorUnitTest\bin\Debug\DemoCalculator.dll
+D:\SourceCode\BubbleB\DemoCalculator\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SourceCode\BubbleB\DemoCalculator\CalculatorUnitTest\bin\Debug\DemoCalculator.pdb
+D:\SourceCode\BubbleB\DemoCalculator\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\SourceCode\BubbleB\DemoCalculator\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csprojResolveAssemblyReference.cache
+D:\SourceCode\BubbleB\DemoCalculator\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.dll
+D:\SourceCode\BubbleB\DemoCalculator\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.pdb

@@ -1,0 +1,4 @@
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculator\bin\Debug\AdvanceCalculator.dll
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculator\bin\Debug\AdvanceCalculator.pdb
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculator\obj\Debug\AdvanceCalculator.dll
+D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculator\obj\Debug\AdvanceCalculator.pdb
