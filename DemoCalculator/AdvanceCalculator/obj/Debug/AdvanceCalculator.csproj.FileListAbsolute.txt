@@ -3,3 +3,8 @@ D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculator\bin\Debug\AdvanceCalculat
 D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculator\obj\Debug\AdvanceCalculator.dll
 D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculator\obj\Debug\AdvanceCalculator.pdb
 D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculator\obj\Debug\AdvanceCalculator.csprojResolveAssemblyReference.cache
+C:\SourceCode\DemoCalculator\AdvanceCalculator\bin\Debug\AdvanceCalculator.dll
+C:\SourceCode\DemoCalculator\AdvanceCalculator\bin\Debug\AdvanceCalculator.pdb
+C:\SourceCode\DemoCalculator\AdvanceCalculator\obj\Debug\AdvanceCalculator.csprojResolveAssemblyReference.cache
+C:\SourceCode\DemoCalculator\AdvanceCalculator\obj\Debug\AdvanceCalculator.dll
+C:\SourceCode\DemoCalculator\AdvanceCalculator\obj\Debug\AdvanceCalculator.pdb

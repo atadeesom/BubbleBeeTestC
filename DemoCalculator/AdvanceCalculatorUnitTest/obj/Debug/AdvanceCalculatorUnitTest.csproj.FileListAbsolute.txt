@@ -7,3 +7,12 @@ D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\Microso
 D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.csprojResolveAssemblyReference.cache
 D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.dll
 D:\SourceCode\BubbleB\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.pdb
+C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculatorUnitTest.dll
+C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculatorUnitTest.pdb
+C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculator.dll
+C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\AdvanceCalculator.pdb
+C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.csprojResolveAssemblyReference.cache
+C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.dll
+C:\SourceCode\DemoCalculator\AdvanceCalculatorUnitTest\obj\Debug\AdvanceCalculatorUnitTest.pdb

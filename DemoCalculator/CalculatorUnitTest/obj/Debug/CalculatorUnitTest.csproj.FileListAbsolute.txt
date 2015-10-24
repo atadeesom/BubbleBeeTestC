@@ -7,3 +7,12 @@ D:\SourceCode\BubbleB\DemoCalculator\CalculatorUnitTest\bin\Debug\Microsoft.Visu
 D:\SourceCode\BubbleB\DemoCalculator\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csprojResolveAssemblyReference.cache
 D:\SourceCode\BubbleB\DemoCalculator\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.dll
 D:\SourceCode\BubbleB\DemoCalculator\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.pdb
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.dll
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Debug\CalculatorUnitTest.pdb
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Debug\DemoCalculator.dll
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Debug\DemoCalculator.pdb
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.csprojResolveAssemblyReference.cache
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.dll
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\obj\Debug\CalculatorUnitTest.pdb

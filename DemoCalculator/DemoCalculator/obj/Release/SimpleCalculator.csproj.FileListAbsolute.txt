@@ -1,0 +1,4 @@
+C:\SourceCode\DemoCalculator\DemoCalculator\bin\Release\DemoCalculator.dll
+C:\SourceCode\DemoCalculator\DemoCalculator\bin\Release\DemoCalculator.pdb
+C:\SourceCode\DemoCalculator\DemoCalculator\obj\Release\DemoCalculator.dll
+C:\SourceCode\DemoCalculator\DemoCalculator\obj\Release\DemoCalculator.pdb

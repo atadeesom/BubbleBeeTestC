@@ -1,0 +1,9 @@
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Release\CalculatorUnitTest.dll
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Release\CalculatorUnitTest.pdb
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Release\DemoCalculator.dll
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Release\DemoCalculator.pdb
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\obj\Release\CalculatorUnitTest.csprojResolveAssemblyReference.cache
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\obj\Release\CalculatorUnitTest.dll
+C:\SourceCode\DemoCalculator\CalculatorUnitTest\obj\Release\CalculatorUnitTest.pdb

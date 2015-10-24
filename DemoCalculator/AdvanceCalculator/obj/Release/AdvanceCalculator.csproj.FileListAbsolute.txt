@@ -1,0 +1,4 @@
+C:\SourceCode\DemoCalculator\AdvanceCalculator\bin\Release\AdvanceCalculator.dll
+C:\SourceCode\DemoCalculator\AdvanceCalculator\bin\Release\AdvanceCalculator.pdb
+C:\SourceCode\DemoCalculator\AdvanceCalculator\obj\Release\AdvanceCalculator.dll
+C:\SourceCode\DemoCalculator\AdvanceCalculator\obj\Release\AdvanceCalculator.pdb
