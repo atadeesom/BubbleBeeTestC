@@ -1,17 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Release\CalculatorUnitTest.nunit" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-10-24" time="21:58:24">
+<test-results name="C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Release\CalculatorUnitTest.nunit" total="5" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-10-24" time="22:48:14">
   <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8662" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="DESKTOP-LPSVR8U" user="Alexander Magmai" user-domain="DESKTOP-LPSVR8U" />
   <culture-info current-culture="th-TH" current-uiculture="en-US" />
-  <test-suite type="Project" name="C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Release\CalculatorUnitTest.nunit" executed="True" result="Success" success="True" time="0.002" asserts="0">
+  <test-suite type="Project" name="C:\SourceCode\DemoCalculator\CalculatorUnitTest\bin\Release\CalculatorUnitTest.nunit" executed="True" result="Failure" success="False" time="0.056" asserts="0">
     <results>
-      <test-suite type="Assembly" name="C:\SourceCode\DemoCalculator\AdvanceCalculatorTests-NUnit\bin\Release\AdvanceCalculatorTests-NUnit.dll" executed="True" result="Success" success="True" time="0.001" asserts="0">
+      <test-suite type="Assembly" name="C:\SourceCode\DemoCalculator\AdvanceCalculatorTests-NUnit\bin\Release\AdvanceCalculatorTests-NUnit.dll" executed="True" result="Failure" success="False" time="0.049" asserts="0">
         <results>
-          <test-suite type="Namespace" name="AdvanceCalculatorTests_NUnit" executed="True" result="Success" success="True" time="0.001" asserts="0">
+          <test-suite type="Namespace" name="AdvanceCalculatorTests_NUnit" executed="True" result="Failure" success="False" time="0.049" asserts="0">
             <results>
-              <test-suite type="TestFixture" name="AdvanceCalculatorTests" executed="True" result="Success" success="True" time="0.001" asserts="0">
+              <test-suite type="TestFixture" name="AdvanceCalculatorTests" executed="True" result="Failure" success="False" time="0.048" asserts="0">
                 <results>
-                  <test-case name="AdvanceCalculatorTests_NUnit.AdvanceCalculatorTests.operatorDivideTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="AdvanceCalculatorTests_NUnit.AdvanceCalculatorTests.operatorDivideTest" executed="True" result="Success" success="True" time="0.019" asserts="1" />
+                  <test-case name="AdvanceCalculatorTests_NUnit.AdvanceCalculatorTests.operatorMinusTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="AdvanceCalculatorTests_NUnit.AdvanceCalculatorTests.operatorMultiplyTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="AdvanceCalculatorTests_NUnit.AdvanceCalculatorTests.operatorPlusTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="AdvanceCalculatorTests_NUnit.AdvanceCalculatorTests.operatorSquareTest" executed="True" result="Failure" success="False" time="0.008" asserts="1">
+                    <failure>
+                      <message><![CDATA[  Expected Result is 125 but Actual Result is 125
+  Expected: 125
+  But was:  50.0d
+]]></message>
+                      <stack-trace><![CDATA[]]></stack-trace>
+                    </failure>
+                  </test-case>
                 </results>
               </test-suite>
             </results>
